@@ -1,0 +1,7 @@
+print("Water is wet")
+print("Please input number")
+w = int(input())
+if w <= 7:
+    print ("SO MOIST")
+else:
+    print ("Praise the sun !!!")

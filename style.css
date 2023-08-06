@@ -116,8 +116,8 @@ main {
 }
 
 #s1 img {
-    flex: 2 1 auto;
-    max-height: 400px;
+    flex: 2;
+    max-height: 440px;
     margin-top: 15px;
 }
 
